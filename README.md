@@ -10,26 +10,21 @@ I am an **AI/ML enthusiast** and **IoT developer** who enjoys solving real-world
 - 📫 Reach me at [arboding@example.com](mailto:arboding@example.com).
 
 ## 🚀 Featured Projects
-### [AI-Powered IoT System](https://github.com/Arboding/AI-IoT)
-![Project One](https://img.shields.io/badge/IoT-Project-orange?style=flat-square)
-An AI-powered IoT system designed to automate and optimize smart home operations.
-
-### [Deep Learning for Image Classification](https://github.com/Arboding/Deep-Learning-Image-Classifier)
-![Project Two](https://img.shields.io/badge/AI-Deep%20Learning-blue?style=flat-square)
-A deep learning model built with TensorFlow for image classification, achieving 95% accuracy.
+| 项目名称 | 描述 | 技术栈 | 状态 |
+| -------- | ---- | ------ | ---- |
+| **AI-powered IoT** | A smart home automation system | Python, TensorFlow | ![build](https://img.shields.io/github/workflow/status/Arboding/AI-IoT/CI) |
+| **Image Classifier** | Deep learning for image classification | TensorFlow, Python | ![build](https://img.shields.io/github/workflow/status/Arboding/Deep-Learning-Image-Classifier/CI) |
 
 ## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square)
-![React](https://img.shields.io/badge/React-16.13-61DAFB?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.3-FF6F00?style=flat-square)
 
 ## 📱 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/arboding/)  
-- [Twitter](https://twitter.com/arboding)  
-- [StackOverflow](https://stackoverflow.com/users/12345678/arboding)  
-- [Email Me](mailto:arboding@example.com)
+- [Twitter](https://twitter.com/arboding)
+
+## 📊 Dynamic Contributions
+![GitHub Contribution Graph](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ## 📚 Learning & Certifications
 - 📖 **Machine Learning** by Andrew Ng (Coursera)
-- 🏅 **Certified AWS Solutions Architect**
