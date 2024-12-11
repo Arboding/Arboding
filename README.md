@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 - 💬 Feel free to reach out to me if you want to talk about tech, coding, or share ideas.
 
 ## 🔥 Skills & Technologies
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arboding&layout=compact&langs_count=6)
+### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arboding&layout=compact&langs_count=6)
 - **Languages**: Python, JavaScript, C++, Java
 - **Frameworks**: React, Node.js, Django, Flask
 - **Tools**: Git, Docker, Kubernetes, VS Code, IntelliJ
@@ -43,7 +43,7 @@ Here are a few of my recent and notable projects:
 ## 🚀 Let's Connect!
 I’m always open to learning new things and collaborating. Feel free to contact me if you're interested in my work or want to discuss potential collaborations.
 
----
+--- 
 
 > "The best way to predict the future is to invent it." — Alan Kay
 
